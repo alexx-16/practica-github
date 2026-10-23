@@ -4,7 +4,7 @@
 Soy **estudiante de desarrollo web** y me gusta aprender sobre *diseño y accesibilidad*.
 
 ### Qué sé hacer:
-* HTML y CSS
+* HTML
 * JavaScript
 * Git y GitHub
 
