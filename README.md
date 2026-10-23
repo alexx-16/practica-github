@@ -9,3 +9,5 @@ Soy **estudiante de desarrollo web** y me gusta aprender sobre *diseño y accesi
 * Git y GitHub
 
 [Mi centro de formación](https://www.ceina.com/)
+
+Ciudad: Barcelona
